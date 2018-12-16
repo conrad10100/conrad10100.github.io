@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: silver;
+    background-color: azure;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -19,6 +19,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: tan;
 }
 h1 {
     font-size: 3em;
