@@ -37,3 +37,17 @@ footer {
 .blurb {
     text-align: center;
 }
+
+	#space {
+      height: 200px;
+    }
+    #container {
+      height: 500px;
+    }
+    #container p {
+      width:70px;
+      height:70px;
+      background-color: rgb(100,100, 255);
+      border: solid 2px black;
+      position: absolute;
+    }
