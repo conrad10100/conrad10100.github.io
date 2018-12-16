@@ -1,4 +1,4 @@
-var colors = ["red", "green", "blue", "silver", "yellow",];
+var colors = ["red", "green", "blue", "orange", "yellow",];
 window.onload = function()
 {
   createBoxes();
