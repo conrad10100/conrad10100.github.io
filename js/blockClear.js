@@ -8,8 +8,8 @@ window.onload = function()
 function createBoxes(){
 
   for (var i = 0; i < 100; i++) {
-    var posXRan = [ Math.floor( Math.random() *400 )+400];
-    var posYRan = [ Math.floor( Math.random() *400 )+200];
+    var posXRan = [ Math.floor( Math.random() *400 )+325];
+    var posYRan = [ Math.floor( Math.random() *400 )+190];
     var newP = document.createElement("p");
     var top = posYRan + "px";
     var left = posXRan + "px";
