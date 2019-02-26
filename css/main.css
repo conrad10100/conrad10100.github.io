@@ -44,6 +44,10 @@ footer {
 #container {
     height: 500px;
 }
+#myButton {
+    position: relative;
+    left: auto;
+}  
 #container p {
     width:70px;
     height:70px;
