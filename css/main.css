@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: -webkit-linear-gradient(to right, #c21500, #ffc500);
+    background: linear-gradient(to right, #c21500, #ffc500);
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
